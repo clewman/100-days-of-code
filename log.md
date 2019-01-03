@@ -3,11 +3,11 @@
 ### Day 0: January 3, 2019
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Went back through some JS lessons.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Today was JS review, which went well.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** no links today
 
 
 ### Day : 
